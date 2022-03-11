@@ -7,7 +7,7 @@ My Arch-based linux virtual machine host setup with GPU passthrough using Endeav
 - YouTube video tutorial followed: https://www.youtube.com/watch?v=h7SG7ccjn-g
 
 # Setup GPU Passthrough
-Configuration steps to set up GPU passthrough.
+Configuration steps to implement GPU passthrough.
 
 ### Enable IOMMU support by setting the correct kernel parameter
 - Open terminal and run command: `sudo nano /etc/default/grub`
